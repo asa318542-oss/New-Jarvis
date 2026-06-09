@@ -1,0 +1,5 @@
+Se vuoi robusto per uffici o ambienti affollati:
+
+Usa diarization con pyannote + ECAPA-TDNN per speaker verification
+
+Poi trascrivi solo la tua voce

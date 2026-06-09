@@ -1,0 +1,11 @@
+venv_gpu/
+*.pt
+*.bin
+*.flac
+*.mp3
+*.wav
+__pycache__/
+ollama/
+piper_voci_italiano/
+wakeword/
+resemblyzer/Resemblyzer-master/
